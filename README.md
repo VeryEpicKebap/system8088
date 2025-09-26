@@ -1,7 +1,6 @@
-// system8088
+# system8088
 
 
 
 
-
-a minimal operating system for 32-bit x86 platforms.
+A "modern" operating system for the Intel 8088/8086 line of CPUs.
